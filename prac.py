@@ -9,3 +9,6 @@ if num % 2 == 0:
 else:
     print("Odd number")
 print("Heloo")
+print("Heloo")
+print("Heloo")
+print("Heloo")
