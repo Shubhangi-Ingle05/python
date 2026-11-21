@@ -1,2 +1,8 @@
 print("Hello")
 print("IT is created")
+a = 2
+b = 3
+if a%2 ==0:
+    print("Even")
+else:
+    print("odd")
